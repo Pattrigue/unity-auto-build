@@ -1,0 +1,18 @@
+{
+  "name": "com.pattrigue.unityautobuild",
+  "displayName": "Unity Auto Build",
+  "version": "1.0.0",
+  "unity": "2021.3.24",
+  "unityRelease": "f1",
+  "description": "An Editor Window to automate the build process for a select number of target platforms."
+  "keywords": ["unity", "editor", "build", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pattrigue/unity-auto-build.git"
+  },
+  "author": {
+    "name": "Pattrigue",
+    "email": "pattrigue@semag-games.com"
+  },
+  "license": "MIT"
+}
