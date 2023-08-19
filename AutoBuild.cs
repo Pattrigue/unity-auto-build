@@ -7,7 +7,7 @@ using UnityEditor;
 using UnityEditor.Build.Reporting;
 using UnityEngine;
 
-namespace Editor
+namespace AutoBuild
 {
     public sealed class AutoBuild : EditorWindow
     {
