@@ -14,7 +14,7 @@ namespace Editor
         private readonly Dictionary<BuildTarget, bool> targetsToBuild = new Dictionary<BuildTarget, bool>();
         private readonly List<BuildTarget> availableTargets = new List<BuildTarget>();
         
-        [MenuItem("Vibrant Venture/Auto Build")]
+        [MenuItem("Tools/Auto Build")]
         public static void OnShowTools() => GetWindow<AutoBuild>("Auto Build", true);
 
         private static BuildTargetGroup GetTargetGroupForTarget(BuildTarget target) => target switch
