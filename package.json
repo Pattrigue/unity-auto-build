@@ -14,5 +14,8 @@
     "name": "Pattrigue",
     "email": "pattrigue@semag-games.com"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  }
 }
