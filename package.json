@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "unity": "2021.3.24",
   "unityRelease": "f1",
-  "description": "An Editor Window to automate the build process for a select number of target platforms."
+  "description": "An Editor Window to automate the build process for a select number of target platforms.",
   "keywords": ["unity", "editor", "build", "automation"],
   "repository": {
     "type": "git",
